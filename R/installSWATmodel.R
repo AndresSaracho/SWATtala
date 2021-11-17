@@ -5,7 +5,7 @@
 #' Descomprime una versión del modelo en el directorio "model_dir"
 #'
 #' @param model_dir Directorio en donde descomprimir los archivos TxTinout
-#' @param model_version Versión del modelo a instalar (e.g. "TALA_20210419")
+#' @param model_version Versión del modelo a instalar (e.g. "20210419")
 #'
 
 
