@@ -11,7 +11,7 @@
 
 installSWATmodel = function(model_dir,model_version){
   pkg_path <- system.file(package = "SWATtala")
-  model_file = paste0(pkg_path,"/inst/extdata",model_version,".zip")
+  model_file = paste0(pkg_path,"/extdata",model_version,".zip")
   unzip(zipfile = model_file,exdir = model_dir)
 }
 
