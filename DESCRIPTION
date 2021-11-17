@@ -1,0 +1,11 @@
+Package: SWATtala
+Type: Package
+Title: Modelos del SWAT en la cuenca del Tala
+Version: 0.1.0
+Author: Andrés Saracho
+Maintainer: Andres Saracho <andressaracho.23@gmail.com>
+Description: Repositorio con modelos SWAT de la cuenca del Tala, se incluye rotaciones, represas y riego.
+License: open-source
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
